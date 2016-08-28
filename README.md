@@ -2,7 +2,7 @@
 
 前段时间在公司总是有需求『滚动的选择器』，那时候总是用别人写好的来用，感觉心里不是很舒服，最近有时间了自己来写一写，上图：
 
-![](/Users/WangLu/Desktop/gif5.gif)
+![](http://upload-images.jianshu.io/upload_images/1822424-6d1e3f570799130a.gif?imageMogr2/auto-orient/strip)
 
 首先分析一下需求：
 
